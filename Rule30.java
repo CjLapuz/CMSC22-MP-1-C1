@@ -1,4 +1,8 @@
-
+/**
+*
+*@ author cj LAPUZ
+*
+*/
 import java.util.Scanner;
 import java.lang.*;
 public class Rule30 {
